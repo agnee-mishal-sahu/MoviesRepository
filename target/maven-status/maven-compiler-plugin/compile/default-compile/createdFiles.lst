@@ -1,0 +1,6 @@
+com\cg\Application.class
+com\cg\service\MoviesService.class
+com\cg\controller\MoviesController.class
+com\cg\repository\MoviesRepository.class
+com\cg\dao\MoviesDao.class
+com\cg\Entity\Movies.class
